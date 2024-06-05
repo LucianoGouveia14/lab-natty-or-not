@@ -23,19 +23,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Super Saiyajin
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+SEAART AI
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizando uma foto pessoal do meu album e gerando um Super Saiyajin
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Uma imagem distorcida
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Muito interezando, como sou careca e o super saiyajin é cabeludo, a IA passou os traços sem alterar meu tamanho do cabelo e cor da pele.
 ```
 
 ### Exemplos e Insigths
